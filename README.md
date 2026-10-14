@@ -84,4 +84,5 @@ practice, made by people at [Artiql](https://artiql.jp).
 ## License
 
 Theme configuration is MIT licensed. The Artiql name, logo and the images
-derived from them are not covered by the MIT license — see [LICENSE](LICENSE).
+derived from them are not covered by the MIT license — see
+[BRAND-ASSETS.md](BRAND-ASSETS.md).
